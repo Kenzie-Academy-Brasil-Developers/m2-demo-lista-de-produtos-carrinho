@@ -8,6 +8,7 @@ const produtos = [
     img: "./src/img/banana.png",
     promocao: true,
     precoPromocao: "1.00",
+    quantidade: 0,
     componentes: ["Potássio", "Vitamina B6", "Vitamina C", "Folatos"],
   },
   {
